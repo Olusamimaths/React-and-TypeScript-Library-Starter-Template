@@ -2,7 +2,6 @@ import React from "react";
 
 export type Props = {
   text: string;
-  showWordCount?: boolean;
 };
 
 function Text(props: Props) {
