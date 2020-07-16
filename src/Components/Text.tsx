@@ -5,7 +5,7 @@ export type Props = {
   showWordCount?: boolean;
 };
 
-function _TextArea(props: Props) {
+function Text(props: Props) {
   return (
     <div>
       <h1>About to begin... {props.text}</h1>
@@ -13,4 +13,4 @@ function _TextArea(props: Props) {
   );
 }
 
-export default _TextArea;
+export default Text;
