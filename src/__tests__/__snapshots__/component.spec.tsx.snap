@@ -8,7 +8,11 @@ exports[`Component should show 'red' text 'Hello World' 1`] = `
     }
   }
 >
-  Hello 
-  World
+  <div>
+    <h1>
+      About to begin... 
+      World
+    </h1>
+  </div>
 </div>
 `;

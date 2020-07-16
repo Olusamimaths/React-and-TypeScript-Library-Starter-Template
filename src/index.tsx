@@ -3,7 +3,7 @@ import Text from "./Components/Text";
 
 export type Props = { text: string };
 
-export default function (props: Props) {
+export default function App(props: Props) {
   const { text } = props;
 
   return (
