@@ -10,8 +10,9 @@ and then run `npm install` to install the dependencies.
 
 ## Building...
 
-Run `npm run build` to build the project, if you want to watch for project files changing
-during the build process, run `npm run build:watch` instead.
+Run `npm run build` to build the project.
+
+If you want to watch for files change during the build process, run `npm run build:watch` instead.
 
 ## Testing your Library
 
