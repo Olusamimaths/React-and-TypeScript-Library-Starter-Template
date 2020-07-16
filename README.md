@@ -5,7 +5,7 @@ Do you want to quickly hack a react-typescript library? Focus of building your l
 # How to Use
 
 Clone the repo by running:
-`https://github.com/Olusamimaths/React-and-TypeScript-Library-Starter-Template.git`
+`git clone https://github.com/Olusamimaths/React-and-TypeScript-Library-Starter-Template.git`
 and then run `npm install` to install the dependencies.
 
 ## Building...
